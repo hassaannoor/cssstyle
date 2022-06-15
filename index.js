@@ -31,4 +31,4 @@ Object.defineProperty(CSSStyleDeclaration, 'prototype', {
 CSSStyleDeclaration.prototype.constructor = CSSStyleDeclaration
 Object.setPrototypeOf(CSSStyleDeclaration, Object.getPrototypeOf(origCSSStyleDeclaration))
 
-module.exports = CSSStyleDeclaration
+module.exports = {CSSStyleDeclaration}
