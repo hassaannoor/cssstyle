@@ -1,5 +1,5 @@
 {
-  "name": "@cdoublev/cssstyle",
+  "name": "@web_dev_studio/cssstyle",
   "description": "CSSStyleDeclaration implementation",
   "author": "Guillaume Lebas",
   "license": "MIT",
@@ -11,9 +11,9 @@
   "engines": {
     "node": ">= 16"
   },
-  "homepage": "https://github.com/cdoublev/cssstyle#readme",
-  "bugs": "https://github.com/cdoublev/cssstyle/issues",
-  "repository": "github:cdoublev/cssstyle",
+  "homepage": "https://github.com/hassaannoor/cssstyle#readme",
+  "bugs": "https://github.com/hassaannoor/cssstyle/issues",
+  "repository": "github:hassaannoor/cssstyle",
   "directories": {
     "lib": "./lib",
     "test": "__tests__"
